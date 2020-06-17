@@ -2,4 +2,5 @@
 ;;; $DOOMDIR/packages.el
 
 (package! clj-refactor)
-(package! ag)
+(package! package)
+(ag! transpose-frame)
